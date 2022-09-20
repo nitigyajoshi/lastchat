@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "623219029869",
+    "project_id": "messege-c0688",
+    "storage_bucket": "messege-c0688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623219029869:android:cb14d34fadde16fb2fcc64",
+        "android_client_info": {
+          "package_name": "com.example.lastchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623219029869-d2tild0t9tendnar4j9opp7kfgurtkq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiN6S-z0AGeXc5gqYUwQheTMOMZ7SMS4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623219029869-d2tild0t9tendnar4j9opp7kfgurtkq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
